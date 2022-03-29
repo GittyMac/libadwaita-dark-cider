@@ -1,0 +1,7 @@
+{
+  "name": "LibAdwaita",
+  "description": "Gnome/GTK4 theme for Cider",
+  "version": "1.0.0",
+  "author": "lako",
+  "github_repo": "GittyMac/libadwaita-dark-cider"
+}
