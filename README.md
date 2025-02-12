@@ -1,5 +1,5 @@
 > [!NOTE]
-> This theme has been archived as of Feburary 12, 2025 as Cider is now seemingly closed source and the I just use the web client.
+> This theme has been archived as of Feburary 12, 2025 as Cider is now seemingly closed source and I just use the web client.
 
 # Libadwaita Dark for Cider
 
